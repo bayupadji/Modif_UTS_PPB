@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DEsa Wisata</string>
+    <string name="action_settings">Setting</string>
+    <string name="action_maps">Maps</string>
+    <string name="action_call">Telp</string>
+    <string name="action_sms">SMS</string>
+    <string name="action_about">About</string>
+</resources>
